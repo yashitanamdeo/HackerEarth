@@ -6,3 +6,5 @@ for i in S:
     else:
         S = i.lower()
     print(S,end="")
+
+# alternate Solution: print(input().swapcase())
